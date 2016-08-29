@@ -24,9 +24,12 @@
     </license>
   </licenses>
 
-  <properties>
+  <!--<properties>
     <jenkins.version>2.0-alpha-4-SNAPSHOT</jenkins.version>
-  </properties>
+  </properties> -->
+   <properties>
+        <jenkins.version>1.642.3</jenkins.version>
+    </properties>
 
   <!-- If you want this to appear on the wiki page:
   <developers>
