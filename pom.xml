@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>2.3</version>
+    <version>2.14</version>
     <relativePath/>
   </parent>
   <artifactId>system-config-dsl</artifactId>
@@ -28,7 +28,7 @@
     <jenkins.version>2.0-alpha-4-SNAPSHOT</jenkins.version>
   </properties> -->
    <properties>
-        <jenkins.version>1.642.3</jenkins.version>
+        <jenkins.version>2.14</jenkins.version>
     </properties>
 
   <!-- If you want this to appear on the wiki page:
